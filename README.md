@@ -1,47 +1,91 @@
-# Excel-Sales-Analytics
-## Sales Report :
+# Finance and Sales Report
+
+# Project Objective:
+
+Develop a Customer Performance Report to assess individual customer contributions to revenue.
+
+Conduct a comprehensive comparison between market performance and predefined sales targets.
 
 
-- Project objective: 
+# Purpose of Sales Analytics:
 
-    1. Create a _[customer performance report](https://github.com/SMIT299/Excel-Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf)_ 
+Sales analytics empowers businesses to monitor, evaluate, and optimize their sales activities and performance, ensuring data-driven decision-making.
 
-    2. Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/SMIT299/Excel-Sales-Analytics/blob/main/Market%20Performance%20vs%20Target%20Report.pdf)_
+Importance of Analyzing Sales Data:
 
-- Purpose of sales analytics: Empower businesses to monitor and evaluate their sales activities and performance.
+Identify sales patterns and trends to refine strategies.
 
-- Importance of analyzing sales data: Identify sales patterns and track key performance indicators (KPIs).
-
-- Role of reports: Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries.
+Track key performance indicators (KPIs) for performance benchmarking.
 
 
-## Finance Report :
+# Role of Reports:
 
-- Project objective: 
+Assist in determining optimal customer discounts for enhanced profitability.
 
-    1. Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/SMIT299/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)_ & _[Months](https://github.com/SMIT299/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Months.pdf)_ 
+Facilitate effective negotiations with consumers based on historical data.
 
-   2. Create Profit and Loss (P&L) reports by _[Markets](https://github.com/SMIT299/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Markets.pdf)_
-
-- Purpose of sales analytics: Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
-
-- Importance of analyzing Finance data: Aid in benchmarking against industry peers and previous periods Foundation for budgeting and forecasting.
-
-- Role of reports: Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
+Identify potential business expansion opportunities in high-performing markets.
 
 
-## Technical & Soft Skills:
-- 	Proficiency in ETL methodology (Extract, Transform, Load).
-- 	Skills to generate a date table using Power Query.
-- 	Ability to derive fiscal months and quarters.
-- 	Establishing data model relationships with Power Pivot.
-- 	Proficiency in incorporating supplementary data into an existing data model.
-- 	Utilizing DAX to create calculated columns.
+# Finance Report
 
-## Soft Skills:
-- 	Refined understanding of Sales & Finance Reports
-- 	Designing user-centric reports with empathy in mind.
-- 	Optimization of report generation through meticulous fine-tuning.
-- 	Developing a systematic approach to devising a report-building plan.
+# Project Objective:
 
 
+Generate Profit and Loss (P&L) reports categorized by Fiscal Year and Months.
+
+Develop P&L reports by Markets to analyze region-wise financial performance.
+
+
+# Purpose of Financial Analytics:
+
+Evaluate financial performance with a structured, data-driven approach.
+
+Support strategic decision-making through detailed financial insights.
+
+Enhance communication with stakeholders and management.
+
+
+# Importance of Analyzing Finance Data:
+
+Benchmark performance against industry peers and historical data.
+
+Provide a foundation for budgeting and forecasting.
+
+
+# Role of Reports:
+
+Align financial planning with overarching business objectives.
+
+Instill confidence in the organization’s financial outlook through transparent reporting.
+
+Technical Implementation
+
+
+# Tools & Technologies Used:
+
+
+# Microsoft Excel:
+
+Formulas: SUMIFS, VLOOKUP, INDEX-MATCH, IF, TEXT, DATE, and AGGREGATE functions to dynamically analyze sales and financial data.
+
+Power Query: Created date tables, derived fiscal months and quarters, and transformed raw datasets for structured reporting.
+
+Power Pivot: Established data model relationships and incorporated supplementary data into an existing data model.
+
+DAX (Data Analysis Expressions): Used to create calculated columns and measures to enhance report functionalities.
+
+VBA (Visual Basic for Applications): Automated data processing, report generation, and data cleaning tasks, improving workflow efficiency.
+
+
+# Soft Skills & Strategic Approach
+
+In-depth understanding of Sales & Finance Reports, ensuring analytical accuracy.
+
+User-centric report design, enhancing readability and usability for stakeholders.
+
+Optimization of report generation by applying meticulous fine-tuning techniques.
+
+A systematic approach to report development, ensuring scalability and accuracy.
+
+By leveraging Excel formulas, Power Pivot, Power Query, DAX, and VBA, I successfully developed dynamic, insightful, and actionable Sales & Finance Reports that drive business growth and financial optimization.
