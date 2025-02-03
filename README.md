@@ -1,71 +1,62 @@
-# Finance and Sales Report
+# Sales & Finance Report Analysis for AtliQ Hardware
 
-# Project Objective:
+# 📊 Project Overview
 
-Develop a Customer Performance Report to assess individual customer contributions to revenue.
+This project focuses on conducting a detailed analysis of sales and financial performance for AtliQ Hardware, a leading provider of hardware products such as personal desktops, laptops, networking solutions, and more. The report includes a comprehensive exploration of sales data, product performance, and financial metrics to provide actionable insights and support strategic decision-making.
 
-Conduct a comprehensive comparison between market performance and predefined sales targets.
+# 🔷 About AtliQ Hardware
 
+AtliQ Hardware operates across multiple countries, offering a wide range of hardware products through various channels, including retail stores, distributors, and online platforms. The company is experiencing rapid growth and faces several challenges in optimizing its sales and financial strategies.
 
-# Purpose of Sales Analytics:
+# 🎯 Project Objective
 
-Sales analytics empowers businesses to monitor, evaluate, and optimize their sales activities and performance, ensuring data-driven decision-making.
+As a Data Analyst, my role was to clean and restructure large sets of sales data to extract valuable insights. The primary objectives were:
 
-Importance of Analyzing Sales Data:
+To analyze growth patterns and seasonal trends
 
-Identify sales patterns and trends to refine strategies.
+To assess regional and market performance
 
-Track key performance indicators (KPIs) for performance benchmarking.
+To identify top-performing products, customers, and regions
 
+To develop detailed P&L reports for strategic decision-making
 
-# Role of Reports:
+# 🔷 Key Highlights
 
-Assist in determining optimal customer discounts for enhanced profitability.
+Sales Data Analysis: Identified growth patterns, seasonal trends, and profitability across product categories.
 
-Facilitate effective negotiations with consumers based on historical data.
+Market & Regional Performance: Used advanced filtering techniques to assess performance by geography and market.
 
-Identify potential business expansion opportunities in high-performing markets.
+Customer Insights: Recognized key customers, including significant improvements in FY 2021 for Amazon (118.9%) and AtliQ e-Store (123.8%).
 
+Financial Reporting: Developed tailored P&L reports, including revenue, costs, and profitability metrics for specific market segments.
 
-# Finance Report
+Growth Potential: Identified regions with high growth potential, like India and the USA, despite minor target shortfalls.
 
-# Project Objective:
+# 🔑 Key Features & Methodology
 
+ETL Process: Efficient data extraction, transformation, and loading (ETL) using Power Query.
 
-Generate Profit and Loss (P&L) reports categorized by Fiscal Year and Months.
+Data Modeling: Utilized Power Pivot for streamlining data analysis and building a reliable data model.
 
-Develop P&L reports by Markets to analyze region-wise financial performance.
+Pivot Tables: Created dynamic and insightful Pivot Tables for in-depth data exploration.
 
+Advanced Excel Techniques: Implemented DAX for advanced calculations and analysis.
 
-# Purpose of Financial Analytics:
+Visualization: Created impactful data visualizations to communicate key insights effectively.
 
-Evaluate financial performance with a structured, data-driven approach.
+Financial Metrics Analysis: Analyzed intricate financial terms, including COGS, net invoice sales, and gross margin.
 
-Support strategic decision-making through detailed financial insights.
+# 🌈 Skills Developed
 
-Enhance communication with stakeholders and management.
+Financial & Sales Terminology: Gained hands-on experience with key financial terms such as COGS, Gross Margin, and Fiscal Year calculations.
 
+Analytical Skills: Enhanced problem-solving abilities by analyzing large, complex datasets.
 
-# Importance of Analyzing Finance Data:
+Attention to Detail: Improved precision and accuracy in handling intricate financial metrics.
 
-Benchmark performance against industry peers and historical data.
+Time Management: Developed strong time management skills while working with large datasets and tight deadlines.
 
-Provide a foundation for budgeting and forecasting.
-
-
-# Role of Reports:
-
-Align financial planning with overarching business objectives.
-
-Instill confidence in the organization’s financial outlook through transparent reporting.
-
-Technical Implementation
-
-
-# Tools & Technologies Used:
-
-
-# Microsoft Excel:
+# 🛠️ Tools & Technologies Used
 
 Formulas: SUMIFS, VLOOKUP, INDEX-MATCH, IF, TEXT, DATE, and AGGREGATE functions to dynamically analyze sales and financial data.
 
@@ -73,19 +64,12 @@ Power Query: Created date tables, derived fiscal months and quarters, and transf
 
 Power Pivot: Established data model relationships and incorporated supplementary data into an existing data model.
 
-DAX (Data Analysis Expressions): Used to create calculated columns and measures to enhance report functionalities.
+DAX (Data Analysis Expressions): Used for creating calculated columns and measures to enhance report functionalities.
 
 VBA (Visual Basic for Applications): Automated data processing, report generation, and data cleaning tasks, improving workflow efficiency.
 
+# 📂 Project Files
 
-# Soft Skills & Strategic Approach
+Sales & Finance Report: The comprehensive report with all the data analysis, findings, and visualizations.
 
-In-depth understanding of Sales & Finance Reports, ensuring analytical accuracy.
-
-User-centric report design, enhancing readability and usability for stakeholders.
-
-Optimization of report generation by applying meticulous fine-tuning techniques.
-
-A systematic approach to report development, ensuring scalability and accuracy.
-
-By leveraging Excel formulas, Power Pivot, Power Query, DAX, and VBA, I successfully developed dynamic, insightful, and actionable Sales & Finance Reports that drive business growth and financial optimization.
+Excel Workbook: Contains the raw data, Pivot Tables, and financial calculations
