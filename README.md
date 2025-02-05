@@ -70,4 +70,4 @@ As a **Data Analyst**, my primary objectives were:
 📑 **Sales & Finance Report** → Comprehensive analysis with findings and visualizations.  
 📊 **Excel Workbook** → Contains **raw data, Pivot Tables, and financial calculations**.
 
-🚀 **[View the Project]**(Link-to-project-repository)
+🚀 **View the Project** [link of project](https://github.com/SMIT299/Sales-Finance-Report-Analysis/tree/main)
